@@ -140,7 +140,7 @@ const DataValidatorHeader: React.FC = () => {
           
           <Link href="/dashboard">
             <motion.button 
-              className="px-6 py-2 bg-gradient-to-r from-blue-500 to-blue-600 text-white text-sm font-semibold rounded-lg shadow-lg hover:from-blue-600 hover:to-blue-700 transition-all duration-300 hover:shadow-xl"
+              className="px-6 py-2 bg-gradient-to-r from-gray-500 to-blue-600 text-white text-sm font-semibold rounded-lg shadow-lg hover:from-blue-600 hover:to-blue-700 transition-all duration-300 hover:shadow-xl"
               whileHover={{ scale: 1.05, y: -1 }}
               whileTap={{ scale: 0.95 }}
             >

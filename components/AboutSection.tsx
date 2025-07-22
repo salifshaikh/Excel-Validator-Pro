@@ -196,7 +196,7 @@ const AboutSection: React.FC = () => {
                   variants={itemVariants}
                   whileHover={{ y: -5 }}
                 >
-                  <div className="bg-blue-100 p-3 rounded-lg group-hover:bg-blue-600 group-hover:text-white transition-colors duration-300 flex-shrink-0">
+                  <div className="bg-blue-100 p-3 rounded-lg group-hover:bg-blue-300 group-hover:text-white transition-colors duration-300 flex-shrink-0">
                     {feature.icon}
                   </div>
                   <div className="ml-4">
