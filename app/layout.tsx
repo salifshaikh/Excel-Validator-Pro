@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>AuditVerse</title>
+        <title>Data Validator</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
       <body className={`${outfit.className} dark:bg-gray-900`}>
